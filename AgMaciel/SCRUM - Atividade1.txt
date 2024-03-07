@@ -12,7 +12,7 @@ Resposta: Transparência
    c) Para obter feedback precoce e validar o valor entregue
    d) Para impressionar os stakeholders com recursos avançados
 
-Resposta: Para reduzir o custo do desenvolvimento
+Resposta: Para obter feedback precoce e validar o valor entregue
 
 3. Qual é um dos papéis no SCRUM responsável por entender o negócio da aplicação?
    a) Scrum Master
@@ -52,7 +52,7 @@ Resposta: 2 semanas
    c) Discutir os pontos positivos e negativos da sprint
    d) Sincronizar o time e identificar obstáculos
 
-Resposta: 
+Resposta: Sincronizar o time e identificar obstáculos
 
 8. Quem é responsável por criar e gerenciar o Product Backlog no SCRUM?
    a) Scrum Master
