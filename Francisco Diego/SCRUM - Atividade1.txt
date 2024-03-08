@@ -70,7 +70,7 @@ Resposta: C
 
 Resposta: B
 
-10. Quando é realizada a Revisão da Sprint no SCRUM?
+10. Quando é realizada a Revisão da Sprint no SCRUM.?
     a) No final de cada dia de trabalho
     b) No início de cada sprint
     c) No final de cada sprint
