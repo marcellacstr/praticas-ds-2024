@@ -8,3 +8,6 @@ Atividade individual Scrum User Storie
 		Para Que <Porquê>
 	• Critérios de aceitação
 	• Pontuação
+
+
+ENTREGA: 04/04/2024
