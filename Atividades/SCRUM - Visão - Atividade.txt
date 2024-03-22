@@ -5,3 +5,5 @@ Atividade individual Visão da Aplicação
    • Objetivo Principal
    • Pelo menos 3 funcionalidades principais
    • Metas de curto ou longo prazo
+
+ENTREGA: 04/04/2024
