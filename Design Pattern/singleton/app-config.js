@@ -1,38 +1,33 @@
+// Implementação do Singleton com construtor privado
 class AppConfig {
-
     constructor() {
-        if(AppConfig.instance){
-            return AppConfig.instance;
-        }
-        this.apiKey = "HJHDS123213JHHGFJKJ";
-        this.apiUrl = "https://mock.com.br";
-
-        this.connect();
-
-        AppConfig.instance = this;
-    }
-
-    static getInstance() {
-        if(!AppConfig.instance){
-            AppConfig.instance = new AppConfig();
-        }
+      if (AppConfig.instance) {
         return AppConfig.instance;
+      }
+  
+      this.apiKey = 'JLSDJIDH123898SDHKHD';
+      this.apiUrl = 'http://mock.com.br';
+      AppConfig.instance = this;
     }
-
-    connect() {
-        console.log("Conectando com a servidor de API")
+  
+    static getInstance() {
+      if (!AppConfig.instance) {
+        AppConfig.instance = new AppConfig();
+      }
+      return AppConfig.instance;
     }
-
+  
     setApiUrl(apiUrl) {
-        this.apiUrl = apiUrl
+      this.apiUrl = apiUrl;
     }
-
+  
+    // Método para fazer uma solicitação à API usando a configuração
     fetchData() {
-        if(!this.apiUrl){
-            throw new Error("Url é obrigátorio!");
-        }
-        console.log("Realizando consultas na api ......")
+      if (!this.apiUrl) {
+        throw new Error('Url da API não pode ser nula');
+      }
+      console.log('Realizando uma chamada para o servidor ........')
     }
-}
+  }
 
-export default AppConfig;
+  export default AppConfig;
