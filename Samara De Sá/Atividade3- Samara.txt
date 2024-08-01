@@ -20,3 +20,4 @@ Realização de testes de usabilidade com um grupo piloto de professores e pais 
 Metas de Longo Prazo:Aperfeiçoamento da plataforma com base no feedback dos usuários.
 Integração de recursos adicionais, como notificações por e-mail e calendário escolar.
 Expansão da plataforma para outras séries ou níveis de ensino, visando atender às necessidades de diferentes segmentos da comunidade escolar.
+
