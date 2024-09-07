@@ -1,0 +1,30 @@
+Atividade individual Visão da Aplicação 
+
+Objetivo Principal
+O principal objetivo do Chatbot do IFB é melhorar a comunicação e fornecer suporte eficiente aos estudantes do Instituto Federal de Brasília, permitindo que eles acessem informações relevantes de forma rápida e precisa.
+
+Funcionalidades Principais
+Respostas a Perguntas Frequentes:
+
+
+
+O chatbot deve ser capaz de responder a perguntas comuns sobre procedimentos de matrícula, grade curricular, horários de aulas e eventos acadêmicos.
+Interação Multilíngue:
+
+O chatbot deve oferecer suporte para múltiplos idiomas, incluindo português e inglês, para atender às necessidades de estudantes estrangeiros.
+Atualizações em Tempo Real:
+
+O chatbot deve fornecer informações atualizadas e precisas, extraídas de fontes confiáveis dentro do IFB, garantindo que os estudantes tenham acesso às informações mais recentes.
+Metas de Curto e Longo Prazo
+Curto Prazo:
+
+Implementar a capacidade do chatbot de responder a perguntas frequentes sobre procedimentos de matrícula e grade curricular.
+Configurar suporte básico para múltiplos idiomas, começando com português e inglês.
+Realizar testes de usabilidade para assegurar que o chatbot interaja de forma natural e amigável com os usuários.
+Longo Prazo:
+
+Expandir a base de conhecimento do chatbot para incluir informações sobre eventos acadêmicos e outras áreas de interesse para os estudantes.
+Melhorar a capacidade do chatbot de entender perguntas formuladas de maneiras diferentes, utilizando sinônimos e variações de linguagem.
+Integrar o chatbot com sistemas de gestão acadêmica do IFB para fornecer atualizações em tempo real sobre informações críticas para os estudantes.
+
+Entrega: 04/04/2024

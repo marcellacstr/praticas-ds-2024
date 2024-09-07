@@ -1,0 +1,32 @@
+Atividade individual Scrum User Storie
+
+ - Escolha uma história de usuário do PTCC de vocês e escreva uma uma História de usuário.
+  - Deve conter:
+  	• Sintaxe básica de escrita de história de usuário
+  		Eu como <Papel>
+		Gostaria que <O quê>
+		Para Que <Porquê>
+	• Critérios de aceitação
+	• Pontuação
+
+História de Usuário: Melhoria da Interatividade do Chatbot do IFB
+
+Eu como estudante do Instituto Federal de Brasília (IFB)
+Gostaria de poder receber respostas mais precisas e úteis do chatbot do IFB
+Para que eu possa encontrar informações relevantes de forma mais eficiente e satisfatória.
+
+Critérios de Aceitação:
+
+O chatbot deve ser capaz de compreender e responder a perguntas sobre procedimentos de matrícula, grade curricular, horários de aulas e eventos acadêmicos.
+O chatbot deve fornecer informações atualizadas e precisas, extraídas de fontes confiáveis dentro do IFB.
+O chatbot deve ser capaz de interagir de forma natural e amigável com os usuários, utilizando uma linguagem clara e acessível.
+O chatbot deve oferecer suporte para múltiplos idiomas, incluindo português e inglês, para atender às necessidades de estudantes estrangeiros.
+O chatbot deve ser capaz de entender perguntas formuladas de maneiras diferentes, utilizando sinônimos e variações de linguagem.
+O chatbot deve fornecer respostas rápidas e relevantes, sem demora excessiva.
+
+Pontuação: Esta história de usuário pode ser pontuada com 5 pontos, indicando que se trata de uma melhoria significativa na funcionalidade do chatbot do IFB, que beneficiará diretamente os estudantes e melhorará sua experiência com o sistema.
+
+
+
+
+ENTREGA: 04/04/2024
