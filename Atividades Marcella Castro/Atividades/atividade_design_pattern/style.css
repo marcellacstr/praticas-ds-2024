@@ -1,0 +1,13 @@
+.explicacao {
+    background-color: rgba(255, 255, 255, 0.8); /* Branco opaco */
+    border: 1px solid #ccc; /* Borda sutil */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+    padding: 20px; /* Espaçamento interno */
+    margin: 10px; /* Espaçamento externo */
+    text-align: justify; /* Justificação do texto */
+  }
+
+  .explicacao p {
+    text-indent: 1.25em; /* Indentação do parágrafo */
+  }

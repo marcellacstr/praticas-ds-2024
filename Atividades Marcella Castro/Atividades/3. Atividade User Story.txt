@@ -1,0 +1,42 @@
+Atividade individual Scrum User Storie
+Aluno: Marcella Queiroz de Castro 
+
+ - Escolha uma história de usuário do PTCC de vocês e escreva uma uma História de usuário.
+  - Deve conter:
+  	• Sintaxe básica de escrita de história de usuário
+  		Eu como <Papel>
+		Gostaria que <O quê>
+		Para Que <Porquê>
+	• Critérios de aceitação
+	• Pontuação
+
+
+USER STORY - Projeto Rumo à Residência 
+
+EU COMO usuária do sistema de gerador de cronograma de estudos para a residência médica 
+GOSTARIA que o produto gerado pelo gerador de cronograma tivesse opção de integração com o Google Calendar
+PARA QUE eu possa ver os eventos de estudo e matérias que eu tenho que estudar no meu aplicativo mais comum de controle de agenda 
+
+CRITÉRIOS DE ACEITAÇÃO 
+
+Integração Funcional:
+O sistema deve permitir que o usuário integre o cronograma gerado com o Google Calendar de forma funcional e sem erros (sem criar eventos repetidos) 
+------------------------------------------------------
+Autenticação Google:
+O usuário deve ser capaz de autenticar-se com sua conta do Google para acessar e integrar o cronograma gerado com o Google Calendar. O sistema tem que estar vinculado ao usuário google (gmail) 
+------------------------------------------------------
+Visualização no Google Calendar:
+Após a integração, todos os eventos e atividades do cronograma gerado devem ser visualizados no Google Calendar do usuário e por lá serem atualizados, sem mais envolvimento do sistema Rumo à Residência. 
+------------------------------------------------------
+Sincronização Automática:
+O cronograma de estudos deve ser automaticamente sincronizado com o Google Calendar sempre que houver alterações, adições, récalculo ou exclusões de eventos.
+------------------------------------------------------
+Personalização de Eventos:
+Os eventos no Google Calendar devem ser claramente identificados e categorizados de acordo com as matérias ou tópicos de estudo, permitindo uma fácil identificação e diferenciação.
+------------------------------------------------------
+Compatibilidade de Plataforma:
+A integração com o Google Calendar deve funcionar de forma consistente em diferentes plataformas, incluindo dispositivos móveis (Android e iOS) e computadores.
+
+
+
+Pontuação: 13 

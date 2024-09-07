@@ -1,0 +1,32 @@
+Atividade individual Visão da Aplicação 
+
+ - Escreva a visão da aplicação do seu PTCC
+  - Deve conter:
+   • Objetivo Principal
+   • Pelo menos 3 funcionalidades principais
+   • Metas de curto ou longo prazo
+
+ENTREGA: 04/04/2024
+
+
+
+- O meu PTCC tem como tema a elaboração de um sistema de gerador de estudos para a Residência Médica, visando atender alunos que, ao terminar o curso de medicina, não sabem como se organizar para a prova da residência médica, convencidamente muito difícil. 
+
+Objetivo Principal: Desenvolver uma aplicação web que crie uma agenda no Google Calendar para a pessoa com as matérias que a pessoa tem que estudar antes da prova. 
+
+Funcionalidades 
+- integração da aplicação com o google calendar
+- armazenar a lista de matérias que a pessoa tem que estudar, receber a data da prova de residência da pessoa e espaçar as matérias que ela tem que estudar ao longo dos dias até a prova dela
+- distribuir as disciplinas nos dias que a pessoa se disponibilizou a estudar, considerando o input dela de quais dias ela pode estudar 
+- contar com repetição espaçada do estudo das matérias. Incluir matérias mais fáceis com menor frequência e assim sucessivamente 
+
+Metas de curto prazo: 
+- criar os componentes de formulário, menu lateral e card das matérias 
+- montar o css dos componentes 
+- fazer integração da aplicação com o google calendar API 
+
+
+Metas de longo prazo: 
+- fazer testes de usuário
+- disponibilizar ferramenta online 
+- incluir anúncios para monetização 

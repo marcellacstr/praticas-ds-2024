@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grupo do Zap Zap</title>
+</head>
+<body>
+    <h1>Grupão do Zap</h1>
+    <div class="explicacao">
+        <p>
+            Aqui é feita a aplicação do padrão Observer. O design pattern observer serve para quando 
+            uma ação tem relação de dependência com várias outras instâncias. Isso é, quando uma instância
+            é alterada, todos seus dependentes tem alguma atualização. 
+        </p>
+        <p>
+            O exemplo de implementação é de um Grupo do WhatsApp. 3 usuários (instâncias da classe User) são criados
+            e também é criado um chat (instância da classe chatRoom). Quando um usuário sai dro grupo, ele deixa de receber as mensagens. 
+            Quando ele ainda não entreou, também não recebe. 
+        </p>
+        <p>
+            Percebe-se como o usuário JP1234, em preto, recebeu todas as mensagens, mas a usuária JojoTodynho 
+            não recebe as mensagens de entrada da usuaria Erikinha. Depois que Erikinha saiu, só JP1234 e JojoTodynho
+            recebem a mensagem de sua saída.
+        </p>
+    </div>
+
+    
+    <script type="module" src="app.js"></script>
+</body>
+</html>
