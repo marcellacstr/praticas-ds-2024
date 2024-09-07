@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script src="app.js"></script>
+        <link rel="stylesheet" href="app.css">
+    </head>
+    <body>
+        <h1>STRATEGY PATTERN</h1>
+        <p>O Strategy Pattern permite que um algoritmo seja selecionado em tempo de execução, 
+            proporcionando flexibilidade para escolher a implementação do algoritmo. Esse padrão 
+            é útil quando se precisa variar o comportamento de uma classe sem alterar seu código.</p>
+        <h2>História</h2>
+        <p>Imagine que está sendo desenvolvido um sistema de pagamento que pode processar diferentes 
+            métodos de pagamento, como cartões de crédito e PayPal. Cada método de pagamento tem uma 
+            lógica diferente para processar a transação obviamente.</p>
+        <p>Antes de usar o Strategy Pattern,  haveria uma única classe com vários métodos para lidar 
+            com os diferentes tipos de pagamento. No entanto, isso pode se tornar difícil de manter e 
+            estender.</p>
+        <p>Com o Strategy Pattern, é possível definir uma interface comum para todos os métodos de pagamento 
+            e criar implementações específicas para cada um. Isso permite alterar o método de 
+            pagamento em tempo de execução sem modificar a classe principal.</p>
+    </body>
+</html>
